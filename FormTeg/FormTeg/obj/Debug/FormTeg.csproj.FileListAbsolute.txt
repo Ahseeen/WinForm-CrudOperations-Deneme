@@ -1,0 +1,11 @@
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\bin\Debug\FormTeg.exe.config
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\bin\Debug\FormTeg.exe
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\bin\Debug\FormTeg.pdb
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.csprojAssemblyReference.cache
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.Form1.resources
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.Properties.Resources.resources
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.csproj.GenerateResource.cache
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.csproj.CoreCompileInputs.cache
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.exe
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.pdb
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Debug\FormTeg.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\bin\Release\FormTeg.exe.config
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\bin\Release\FormTeg.exe
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\bin\Release\FormTeg.pdb
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.Form1.resources
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.Form2.resources
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.Properties.Resources.resources
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.csproj.GenerateResource.cache
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.csproj.CoreCompileInputs.cache
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.exe
+C:\Users\Ahsen\source\repos\FormTeg\FormTeg\obj\Release\FormTeg.pdb
